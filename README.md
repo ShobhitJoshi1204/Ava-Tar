@@ -1,1 +1,3 @@
-# Ava-Tar
+# Ava-tar
+
+Avalara hackathon project
